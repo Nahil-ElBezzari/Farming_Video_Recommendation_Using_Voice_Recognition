@@ -1,0 +1,11 @@
+##################################################
+## Fichier de config                            ##
+## Remplire les infos celon votre configuration ##
+##################################################
+
+API_KEY : AIzaSyBVi9DWzf2hhgrvicURAmEiIJO9cpBgN24
+PLAYLIST_ID : PLHd2MxSErD5ermsv9oujS8Ej4iKRdKLeb
+DB_HOST : localhost
+DB_USER : root
+DB_PASSWORD : book
+DB_NAME : IA_agriculture

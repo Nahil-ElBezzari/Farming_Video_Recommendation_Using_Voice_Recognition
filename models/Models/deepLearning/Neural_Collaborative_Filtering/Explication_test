@@ -1,0 +1,11 @@
+test1 : hyperparameter_results1.csv
+    param_grid = {
+    'batch_size': [16, 32, 64],
+    'hidden_dim': [64, 128, 256],
+    'num_epochs': [10, 50, 100],
+    'learning_rate': [0.001, 0.0001],
+    'dropout': [0.3, 0.5, 0.7]
+    }
+    Relu
+    2 couches cachées
+test2 :

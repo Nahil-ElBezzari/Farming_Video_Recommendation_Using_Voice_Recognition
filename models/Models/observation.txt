@@ -1,0 +1,21 @@
+Mean Reciprocal Rank (MRR)
+
+all-mpnet-base-v2:
+- original form: 0.7213
+- question form: 0.7656
+
+paraphrase-multilingual-mpnet-base-v2:
+- original form: 0.6546
+- question form: 0.7548
+
+multi-qa-mpnet-base-dot-v1:
+- original form: 0.8022
+- question form: 0.8258
+
+all-distilroberta-v1:
+- original form: 0.7281
+- question form: 0.7899
+
+all-MiniLM-L6-v2:
+0.7530
+0.7884

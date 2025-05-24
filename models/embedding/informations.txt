@@ -1,0 +1,2 @@
+Similarity matrix creation:
+~1005 sentences: 42.1900271 seconds
