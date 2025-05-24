@@ -1,0 +1,8 @@
+pip install torch
+pip install pandas
+pip install scikit-learn
+pip install sentence-transformers
+pip install accelerate
+numpy
+pip install google-cloud-speech
+pip install pyaudio
